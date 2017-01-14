@@ -80,7 +80,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #003d8e;
+
+	  color: #003d8e;
   }
 }
 
@@ -90,7 +91,7 @@ ul, ol {
 }
 
 ul {
-  list-style-type: disc;
+   list-style-type: disc;
 }
 
 ol {
@@ -122,6 +123,9 @@ img {
     width: 100%;
 	border-radius: 25px;
 }	 
+  table, th, td {
+     border: 1px solid white;
+	  
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
