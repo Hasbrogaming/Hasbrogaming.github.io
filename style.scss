@@ -127,7 +127,11 @@ img {
      border: 1px solid white;
 	  background-colour: #984b43;
 	  
-}	  
+}
+
+ td {
+     vertical-align: middle;
+     padding: 10px;	 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
