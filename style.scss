@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background-image: url ("http://www.walldevil.com/wallpapers/h12/widescreen-wallpapers-wallpaper-images.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
