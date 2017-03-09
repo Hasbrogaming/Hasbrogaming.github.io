@@ -13,7 +13,7 @@ published: true
     <td>Title</td>
     <td>It's So Hard</td>
     <td>Date</td>
-    <td></td>
+    <td>9/3/17</td>
   </tr>
 </table>
 
