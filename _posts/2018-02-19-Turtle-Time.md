@@ -10,3 +10,4 @@ published: true
 ---
 Today we learnt about the drawing turtle. This turtle is no ordinary turtle it is fast and can draw lines. Today we learnt how to import the turtle and then draw some shapes. We did this by making a function and then putting in how many sides there were and the length of them. This then made a shape. The next challenge was to draw 20 different shapes in a simple way we did this by running a loop that made shapes from a triangle to a 20 sided shape all on the same page. Next we looked at patterns and made some very interesting ones like the one below.
 
+<iframe height="400px" width="100%" src="https://repl.it/@harrylonghurst/turtle?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
